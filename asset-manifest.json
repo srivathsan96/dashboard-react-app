@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dashboard-react-app/static/css/main.94393b59.css",
+    "main.js": "/dashboard-react-app/static/js/main.27f95855.js",
+    "static/media/coke.png": "/dashboard-react-app/static/media/coke.c8a799e8017a2fc3c2ca.png",
+    "static/media/chocolate.png": "/dashboard-react-app/static/media/chocolate.fd0c2cfde77ab5a51cc0.png",
+    "index.html": "/dashboard-react-app/index.html",
+    "main.94393b59.css.map": "/dashboard-react-app/static/css/main.94393b59.css.map",
+    "main.27f95855.js.map": "/dashboard-react-app/static/js/main.27f95855.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94393b59.css",
+    "static/js/main.27f95855.js"
+  ]
+}
