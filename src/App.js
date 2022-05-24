@@ -9,7 +9,7 @@ import Reports from "./pages/reports/Reports";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename={window.location.pathname || ''}>
         <Routes>
           <Route path="/">
             <Route index element={<Home />} />
