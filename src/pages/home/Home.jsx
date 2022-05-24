@@ -62,7 +62,7 @@ const Home = () => {
         ];
       });
     }, 1500);
-    console.log(state.length);
+    // console.log(state.length);
 
     if (state.length >= componentList.length) {
       setHasMoreState(false);

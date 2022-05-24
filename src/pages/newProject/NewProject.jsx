@@ -27,7 +27,7 @@ const NewProject = () => {
       return inputString;
     });
   };
-  console.log(queryData);
+  // console.log(queryData);
 
   const search = (data) => {
     return data.filter((item) => {
@@ -54,7 +54,7 @@ const NewProject = () => {
         ];
       });
     }, 1500);
-    console.log(state.length);
+    // console.log(state.length);
 
     if (state.length >= projectsListArray.length) {
       setHasMoreState(false);
